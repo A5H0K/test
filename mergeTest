@@ -1,6 +1,6 @@
 master
 
-var a = b+c;
+var a = b+c+d;
 ashok
 Commit 1
 Commit 2 
